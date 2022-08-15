@@ -140,6 +140,13 @@ body {
     text-indent: 5px;
     margin-bottom: 10px;
   }
+
+  .submit {
+    width: 15%;
+    border-radius: 10px;
+    color: black;
+    background-color: lightgrey;
+  }
   
   .footer {
     border: 1px solid black;
