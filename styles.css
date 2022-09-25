@@ -70,13 +70,17 @@ body {
     justify-content: center;
   }
 
-  .html_container, .css_container {
+  .html_container, .css_container, .career_container {
     border: 1px solid black;
     width: 200px;
     height: 100px;
     margin: 30px;
     background-color: black;
     border-radius: 10px;
+  }
+
+  .career_container h2 {
+    margin-bottom: 30px;
   }
 
   .div_title {
